@@ -1,4 +1,4 @@
-package W21_GUI_Project;
+package GUI_Project;
 
 /**
  * Represents an investment of either Stock or MutualFund type

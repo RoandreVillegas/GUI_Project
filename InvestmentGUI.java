@@ -1,4 +1,4 @@
-package W21_GUI_Project;
+package GUI_Project;
 import java.awt.*;
 import javax.swing.*;
 
